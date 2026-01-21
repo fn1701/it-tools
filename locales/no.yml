@@ -389,6 +389,5 @@ tools:
     title: Kode/dekode URL-formaterte strenger
     description: Kode tekst til URL-kodet format (også kjent som "prosent-kodet"), eller dekode fra det.
 
-  text-to-binary:
-    title: Tekst til ASCII binært
-    description: Konverter tekst til sin ASCII binære representasjon og visa-versa.
+  ipv6-eui64-to-mac:
+    title: IPv6 EUI-64 til MAC

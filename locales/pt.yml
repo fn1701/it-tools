@@ -70,3 +70,5 @@ tools:
     measurement: 'Medidas'
     text: 'Texto'
     data: 'Dados'
+  ipv6-eui64-to-mac:
+    title: IPv6 EUI-64 para MAC

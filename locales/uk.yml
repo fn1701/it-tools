@@ -70,3 +70,5 @@ tools:
     measurement: Вимірювання
     text: Текст
     data: Дані
+  ipv6-eui64-to-mac:
+    title: IPv6 EUI-64 до MAC

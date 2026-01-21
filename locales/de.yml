@@ -454,3 +454,9 @@ tools:
   text-to-binary:
     title: Text zu ASCII-Binär
     description: Konvertiere Text in seine ASCII-Binärrepräsentation und umgekehrt.
+  ipv6-eui64-to-mac:
+    title: IPv6 EUI-64 zu MAC
+    description: >-
+      Konvertiere eine IPv6 EUI-64-Adresse in ihre MAC-Adresse. Dies ist nützlich,
+      um die MAC-Adresse eines Geräts zu finden, das eine IPv6 EUI-64-Adresse
+      verwendet.
